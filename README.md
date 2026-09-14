@@ -7,7 +7,7 @@ with budget, transport, accommodation, dining and destination guidance.
 The project is being migrated from a custom `Agent.run()` abstraction to LangChain JS
 `createAgent()` specialists coordinated by a LangGraph workflow.
 
-Live demo: [elec5620-ai-trip-planner.vercel.app](https://elec5620-ai-trip-planner.vercel.app)
+Live demo: [whw0591-ai-trip-planner.vercel.app](https://whw0591-ai-trip-planner.vercel.app)
 
 ## Current status
 
